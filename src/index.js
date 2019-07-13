@@ -1,4 +1,1 @@
-export Button from './lib/Button/Button.jsx';
-
-
-
+export { Button } from './lib/Button/Button';
