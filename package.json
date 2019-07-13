@@ -32,6 +32,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-export-default-from": "^7.5.2",
     "@storybook/addon-actions": "^5.1.9",
     "@storybook/addon-links": "^5.1.9",
     "@storybook/addons": "^5.1.9",
